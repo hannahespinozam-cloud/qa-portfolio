@@ -1,20 +1,38 @@
-# QA Portfolio
+# QA Portfolio | Manual Tester
 
-Hi! I'm a QA Tester focused on manual testing for websites and applications.
+Hi! I'm a Quality Assurance Tester specialized in **manual testing for web and application platforms**, focused on delivering clear, structured, and high-quality results.
 
-I specialize in:
-- Finding bugs and broken flows
-- Testing forms and user journeys
-- Improving user experience
+## What I Do
 
-## What you'll find here:
-- Bug reports with clear steps
-- Test cases for key functionalities
-- Basic testing checklists
+* Identify bugs, broken flows, and inconsistencies
+* Validate forms, user journeys, and business logic
+* Perform exploratory testing and edge case analysis
+* Ensure a smooth and user-friendly experience
 
-## Tools:
-- Chrome DevTools
-- Manual testing
-- Clear documentation
+## What You'll Find Here
 
-I'm available to test your website or app and deliver a clear report within 24h 🚀
+* Detailed **bug reports** with clear reproduction steps
+* Well-structured **test cases** for core functionalities
+* Practical **testing checklists** for real-world scenarios
+* Examples of **exploratory testing sessions**
+
+## Tools & Approach
+
+* Chrome DevTools
+* Postman (basic API testing)
+* Notion (test documentation & organization)
+* Structured manual testing with clear documentation
+
+## Work Style
+
+* Detail-oriented and analytical
+* Strong focus on clarity and communication
+* Fast turnaround with high-quality deliverables
+
+## Availability
+
+I'm available to test your website or application and deliver a **clear, actionable report within 24 hours**.
+
+---
+
+📩 Open to freelance opportunities, collaborations, and QA projects.
